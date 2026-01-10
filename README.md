@@ -10,7 +10,9 @@ Business Tasks
 Goal:
 
 The goal is to identify how changing climate conditions influence crop performance and agricultural sustainability
+
 Scenario/Background
+
 Climate change has become one of the most significant challenges affecting global agricultural productivity and food security. This analysis explores how variations in temperature, precipitation, and CO2 emissions influence outcomes across different regions and countries. Using structured data from Climate Change Impact on Agriculture dataset, the study aims to uncover patterns, relationships, and potential adaptation strategies that can mitigate negative effects on agriculture. Through data cleaning, analysis, and visualization using Python programming language, this report provides insights into the environmental and economic dimensions of climate and its implications for sustainable farming practices.
 
 Approach
@@ -76,17 +78,17 @@ Key Findings
 This line graph plots the average temperature (in °C) over the years from 1990 to 2025.
 The temperature shows a general upward trend, with fluctuations between 14 °C and 17 °C over the years.
 Notably, there are periods of increase and slight declines, reflecting variability in temperature fluctuations.
-Rising Temperature Trends](visualizations/Average_Temperature_Over_Time.PNG)
+Rising Temperature Trends](visualizations/Average_Temperature_Over_Time.png)
 
 3.	Unstable Precipitation Patterns:
-4.	
+   
 This graph shows total annual precipitation (in mm) from 1990 to 2025.
 The overall trend indicates fluctuations around an average of approximately 1500-1750 mm.
 Peaks and troughs in specific years reflect significant variations in precipitation, which can influence agricultural practices and water resource management.
 The variability suggests that while there may be some overall stability in average precipitation, certain years may experience outlier conditions (both wet and dry).
 IMAGE
 5.	Precipitation vs. Crop Yield by Region Insight:
-6.	
+
 This chart displays a scatter plot showing the relationship between precipitation (measured in millimeters) and crop yield (measured in tons per hectare) across various regions.
 Each point represents a particular observation from a region, with different colors indicating different regions. The distribution of points suggests that there is a wide range of crop yields across all levels of precipitation.
 Higher Precipitation: While some regions experience higher crop yields with increased precipitation, this relationship is not strictly linear. Even with high precipitation, crop yield does not consistently reach the upper limits, indicating other factors might be influencing yield.
@@ -154,7 +156,7 @@ v. Share
 Dashboard
 
 A single dashboard showing temperature and rainfall trends, how temperature affects yields, and which countries have the highest or lowest economic impact due to CO2 emissions.
-Rising Temperature Trends](visualizations/Figure_Dashboard.PNG)
+Rising Temperature Trends](visualizations/Figure_Dashboard.png)
 
 vi. Act (Conclusion & Recommendations)
 
@@ -162,6 +164,8 @@ Conclusion
 
 The analysis highlights the growing vulnerability of agriculture to climate change. Increasing temperatures and unpredictable rainfall negatively affect crop productivity, leading to significant economic consequences for developing regions.
 However, improving soil health, adopting adaptive technologies, and strengthening water management can help mitigate these effects and support sustainable farming. Also, most industrialized nations who are the highest emitters of CO2 should work hard to reduce their carbon footprint so as to reduce the huge economic impact on their economy.
+
 Recommendation
+
 Future studies should include additional factors like fertilizer use, pest impact, and CO₂ concentration for a more comprehensive understanding. Governments and agricultural agencies can use insights from this analysis to plan climate-resilient farming policies and promote sustainable resource management.
 
