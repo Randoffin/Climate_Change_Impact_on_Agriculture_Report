@@ -89,26 +89,32 @@ Notably, there are periods of increase and slight declines, reflecting variabili
 
 ![Rising Temperature Trends](visualizations/Average_Temperature_Over_Time.png)
 
-3.	Unstable Precipitation Patterns:
+2.	Unstable Precipitation Patterns:
    
 This graph shows total annual precipitation (in mm) from 1990 to 2025.
 The overall trend indicates fluctuations around an average of approximately 1500-1750 mm.
 Peaks and troughs in specific years reflect significant variations in precipitation, which can influence agricultural practices and water resource management.
 The variability suggests that while there may be some overall stability in average precipitation, certain years may experience outlier conditions (both wet and dry).
-IMAGE
-5.	Precipitation vs. Crop Yield by Region Insight:
+
+![Unstable Precipitation Patterns](visualizations/Precipitation_Trends_Over_Years.png)
+
+3.	Precipitation vs. Crop Yield by Region Insight:
 
 This chart displays a scatter plot showing the relationship between precipitation (measured in millimeters) and crop yield (measured in tons per hectare) across various regions.
 Each point represents a particular observation from a region, with different colors indicating different regions. The distribution of points suggests that there is a wide range of crop yields across all levels of precipitation.
 Higher Precipitation: While some regions experience higher crop yields with increased precipitation, this relationship is not strictly linear. Even with high precipitation, crop yield does not consistently reach the upper limits, indicating other factors might be influencing yield.
 Low Yield: Some regions show relatively low yields even with high precipitation, suggesting that factors like soil quality, agricultural practices, or crop types may play a significant role.
-IMAGE
-7.	Declining Crop Yields:
+
+![Precipitation vs. Crop Yield by Region Insights](visualizations/Precipitation_Crop_Yield_Region.png)
+
+4.	Declining Crop Yields:
 
 Scatter plots showed a negative correlation between temperature and crop yield - especially for temperature-sensitive crops like maize and wheat.
 As temperature rises beyond the optimal range, yields tend to drop significantly.
-IMAGE
-8.	Regional Economic Impacts:
+
+![Temperature vs. Crop Yield](visualizations/Remperature_vs_Crop_Yield.png)
+
+5.	Regional Economic Impacts:
 
 This bar chart displays the average economic impact (in million USD) across various regions.
 Top Economic Contributors:
@@ -116,8 +122,10 @@ Regions like North Central, Southeast, and Tamil Nadu show the highest economic 
 Lower Economic Impact:
 Regions such as Western Australia, Nouvelle-Aquitaine, and Northwest feature lower economic impacts. This could imply less economic activity or reliance on different sectors.
 General Trend: The economic impact varies significantly among regions, reflecting differences in development, industry presence, and resources
-IMAGE
-9.	Average Crop Yield by Region
+
+![Regional Economic Imapacts](visualizations/Average_Economic_Impact_By_Region.png)
+
+6.	Average Crop Yield by Region
 
 The chart displays the average crop yield (measured in tons per hectare) across various regions.
 Top Performers:
@@ -126,8 +134,10 @@ Regions like Northwest, North Central, and Punjab also have relatively high yiel
 Lower Performers:
 The regions at the bottom, such as Grand Est and Northwestern, exhibit significantly lower crop yields compared to the top regions.
 General Trends: The chart indicates that some regions, particularly in warmer climates, may produce higher crop yields, which can be crucial for agricultural planning.
-IMAGE
-10.	Average Temperature by Region
+
+![Average Crop Yield by Region](visualizations/Average_Crop_Yield_By_Region.png)
+
+7.	Average Temperature by Region
     
 The chart shows the average temperature by region, represented in a horizontal bar format. Regions: The labels list various geographic regions, from different countries or parts of the world, indicating their average temperatures.
 Temperature Scale: The horizontal axis represents temperature in degrees Celsius (°C). The bars extend horizontally, with the length of each bar corresponding to the average temperature for that specific region.
@@ -137,34 +147,46 @@ General Observations:
 Regions like North Central and Punjab are among the warmest.
 Colder regions include Quebec and Midwest, indicating significant temperature differences across regions.
 This visualization provides a quick comparative glimpse into average temperatures, helping to identify trends related to climate and geography across various regions.
-IMAGE
-11.	Extreme Weather Events vs. Crop Yield by Region
+
+![Average Temperature By Region](visualizations/Average_Temperature_By_Region.png)
+
+8.	Extreme Weather Events vs. Crop Yield by Region
     
 The scatter plot of extreme weather events versus crop yield shows no clear correlation between the number of extreme events and the resulting crop yield. Yields remain within a similar range (0.5-5.0 tons/ha) regardless of whether regions experience few or many extreme weather events. This suggests that, within the dataset, extreme weather events are not a strong predictor of crop yield. Heavy overlap among regions further indicates uniform behavior across locations.
-IMAGE
 
-15.	Crop Yield vs. Economic Impact:
+![Extreme weather Events vs. Crop Yield By Region](visualizations/Extreme_Weather_Events_vs_Crop_Yield_By_Region.png)
+
+9.	Crop Yield vs. Economic Impact:
     
 The scatter plot illustrates a strong positive relationship between crop yield and economic impact across all regions. As crop yield increases, economic returns rise proportionally, forming a clear upward trend. Although the points are widely distributed – suggesting that factors such as regional differences, crop types, and market conditions also influence economic outcomes – the overall pattern indicates that agricultural productivity is a key driver of economic performance. The consistency of this trend across diverse regions highlights the central role of crop yield in determining economic impact within the dataset.
-IMAGE
-17.	Correlation Insights:
+
+![Crop Yield vs. Economic Impact](visualizations/Crop_Yield_vs_Economic_Impact.png)
+
+10.	Correlation Insights:
 
 The correlation heatmap reveals that most climate and agricultural variables exhibits weak linear relationships, suggesting that climate impacts in this dataset are complex and not directly linear. The strongest correlation (+0.73) is observed between crop yield and economic impact, indicating that agricultural productivity is a major driver of economic performance. Meanwhile, key climate factors such as temperature, precipitation, and CO2 emissions show minimal correlation with yield, soil health, or each other, suggesting that their effects may be non-linear or moderated by regional factors. These insights highlight the need for deeper multivariate and regional analyses to understand climate – agriculture dynamics more thoroughly.
-IMAGE
-19.	CO2 Emission Impact
+
+![Correlation Insights](visualizations/Correlation_Between_Climate_and_Agricultural_Variables.png)
+
+11.	CO2 Emission Impact
 
 The scatter plot demonstrates that the most industrialized nations are the most with huge carbon footprint with its economic impact consequences. 
 Overview: The scatter plot presents the relationship between CO2 emissions (in million tons) and economic impact (in million USD) for various countries.
-Trend:
+
+Trends
+
 There is a positive correlation between CO2 emissions and economic impact, with countries emitting more CO2 generally having higher economic impacts.
 The density of points suggests that while a majority of countries cluster around lower emissions and lower economic impact, a few countries (like China and India) have high emissions paired with high economic impacts.
 Insights: This indicates that as countries industrialize and develop economically, their CO2 emissions tend to rise. However, the scatter also shows that not all high-emission countries have correspondingly high economic impacts.
-IMAGE
+
+![CO2 Emission Impact](visualizations/CO2_Emissions_vs_Economic_Impact.png)
+
 v. Share
 
 Dashboard
 
 A single dashboard showing temperature and rainfall trends, how temperature affects yields, and which countries have the highest or lowest economic impact due to CO2 emissions.
+
 ![Dashboard](visualizations/Figure_Dashboard.png)
 
 vi. Act (Conclusion & Recommendations)
