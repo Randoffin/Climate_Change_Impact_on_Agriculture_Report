@@ -60,13 +60,21 @@ Fill missing numeric values (if any) wthcolumn mean
 Data Overview
 
 The dataset contains key attributes such as:
+
 •	Year – representing the time trend.
+
 •	Average Temperature (°C) – measures climate warmth.
+
 •	Total Precipitation (mm) – indicates rainfall volume.
+
 •	Crop Yield (metric tons per hectare) – measures agricultural productivity.
+
 •	Soil Health Index – evaluates land quality.
+
 •	Economic Impact (million USD) – assesses financial consequences.
+
 •	Region and Crop Type – categorical variables for comparison.
+
 After cleaning and standardizing the data, missing values were handled, and outliers were checked to ensure accurate trend visualization.
 
 iv. Analyze
@@ -78,7 +86,8 @@ Key Findings
 This line graph plots the average temperature (in °C) over the years from 1990 to 2025.
 The temperature shows a general upward trend, with fluctuations between 14 °C and 17 °C over the years.
 Notably, there are periods of increase and slight declines, reflecting variability in temperature fluctuations.
-Rising Temperature Trends](visualizations/Average_Temperature_Over_Time.png)
+
+![Rising Temperature Trends](visualizations/Average_Temperature_Over_Time.png)
 
 3.	Unstable Precipitation Patterns:
    
@@ -156,7 +165,7 @@ v. Share
 Dashboard
 
 A single dashboard showing temperature and rainfall trends, how temperature affects yields, and which countries have the highest or lowest economic impact due to CO2 emissions.
-Rising Temperature Trends](visualizations/Figure_Dashboard.png)
+![Dashboard](visualizations/Figure_Dashboard.png)
 
 vi. Act (Conclusion & Recommendations)
 
