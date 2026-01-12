@@ -22,7 +22,7 @@ df.columns = df.columns.str.strip().str.lower()
 # Check for missing data
 print(df.isnull().sum())
 
-# Fill missing numeric values (if any) wthcolumn mean
+# Fill missing numeric values (if any) with column mean
 df.fillna(df.mean(numeric_only=True), inplace=True)
 
 # Explore General Climate Trends
@@ -158,4 +158,5 @@ plt.ylabel("EconomicImpact (Million USD")
 
 plt.tight_layout()
 plt.show()
+
 
