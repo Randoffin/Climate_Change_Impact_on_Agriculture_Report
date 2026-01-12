@@ -2,7 +2,7 @@ Data Analysis Summary Report: Climate Change Impact on Agriculture
 
 Introduction/Overview
 
-This analysis explores the relationship between climate change variables - such as temperature, precipitation, and soil health - and their effects on agricultural productivity and economic outcomes. The dataset, sourced from Kaggle [https://www.kaggle.com/datasets/waqi786/climate-change-impact-on-agriculture] and licensed under Apache 2.0, includes records of crop yields, climate indicators, and regional economic impacts across multiple countries over several years. The goal is to identify how changing climate conditions influence crop performance and agricultural sustainability.
+This analysis explores the relationship between climate change variables - such as temperature, precipitation, and soil health - and their effects on agricultural productivity and economic outcomes. The dataset, sourced from Kaggle [https://www.kaggle.com/datasets/waqi786/climate-change-impact-on-agriculture] and licensed under Apache 2.0 [https://www.apache.org/licenses/LICENSE-2.0], includes records of crop yields, climate indicators, and regional economic impacts across multiple countries over several years. The goal is to identify how changing climate conditions influence crop performance and agricultural sustainability.
 In order to answer the insight questions, I followed the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
 
 Business Tasks
