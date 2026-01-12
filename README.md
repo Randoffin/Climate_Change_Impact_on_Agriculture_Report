@@ -102,25 +102,29 @@ The variability suggests that while there may be some overall stability in avera
 
 This chart displays a scatter plot showing the relationship between precipitation (measured in millimeters) and crop yield (measured in tons per hectare) across various regions.
 Each point represents a particular observation from a region, with different colors indicating different regions. The distribution of points suggests that there is a wide range of crop yields across all levels of precipitation.
+
 Higher Precipitation: While some regions experience higher crop yields with increased precipitation, this relationship is not strictly linear. Even with high precipitation, crop yield does not consistently reach the upper limits, indicating other factors might be influencing yield.
+
 Low Yield: Some regions show relatively low yields even with high precipitation, suggesting that factors like soil quality, agricultural practices, or crop types may play a significant role.
 
-![Precipitation vs. Crop Yield by Region Insights](visualizations/Precipitation_Crop_Yield_Region.png)
+![Precipitation vs. Crop Yield by Region Insights](visualizations/Precipitation_vs_Crop_Yield_Region.png)
 
 4.	Declining Crop Yields:
 
 Scatter plots showed a negative correlation between temperature and crop yield - especially for temperature-sensitive crops like maize and wheat.
 As temperature rises beyond the optimal range, yields tend to drop significantly.
 
-![Temperature vs. Crop Yield](visualizations/Remperature_vs_Crop_Yield.png)
+![Temperature vs. Crop Yield](visualizations/Temperature_vs_Crop_Yield.png)
 
 5.	Regional Economic Impacts:
 
 This bar chart displays the average economic impact (in million USD) across various regions.
 Top Economic Contributors:
 Regions like North Central, Southeast, and Tamil Nadu show the highest economic impacts, indicating strong economic activity or productivity.
+
 Lower Economic Impact:
 Regions such as Western Australia, Nouvelle-Aquitaine, and Northwest feature lower economic impacts. This could imply less economic activity or reliance on different sectors.
+
 General Trend: The economic impact varies significantly among regions, reflecting differences in development, industry presence, and resources
 
 ![Regional Economic Imapacts](visualizations/Average_Economic_Impact_By_Region.png)
@@ -128,11 +132,14 @@ General Trend: The economic impact varies significantly among regions, reflectin
 6.	Average Crop Yield by Region
 
 The chart displays the average crop yield (measured in tons per hectare) across various regions.
+
 Top Performers:
 The Southeast region stands out with the highest average crop yield, followed closely by Tamil Nadu and Queensland.
 Regions like Northwest, North Central, and Punjab also have relatively high yields.
+
 Lower Performers:
 The regions at the bottom, such as Grand Est and Northwestern, exhibit significantly lower crop yields compared to the top regions.
+
 General Trends: The chart indicates that some regions, particularly in warmer climates, may produce higher crop yields, which can be crucial for agricultural planning.
 
 ![Average Crop Yield by Region](visualizations/Average_Crop_Yield_By_Region.png)
@@ -140,9 +147,13 @@ General Trends: The chart indicates that some regions, particularly in warmer cl
 7.	Average Temperature by Region
     
 The chart shows the average temperature by region, represented in a horizontal bar format. Regions: The labels list various geographic regions, from different countries or parts of the world, indicating their average temperatures.
+
 Temperature Scale: The horizontal axis represents temperature in degrees Celsius (°C). The bars extend horizontally, with the length of each bar corresponding to the average temperature for that specific region.
+
 Color Gradient: The color gradient from light blue to red suggests a temperature gradient, with lighter colors indicating cooler temperatures and darker colors indicating warmer temperatures.
+
 Temperature Ranges: The regions at the top (like North Central and Punjab) appear to have higher average temperatures, while those at the bottom (like Northwestern and Quebec) show cooler averages.
+
 General Observations:
 Regions like North Central and Punjab are among the warmest.
 Colder regions include Quebec and Midwest, indicating significant temperature differences across regions.
@@ -171,6 +182,7 @@ The correlation heatmap reveals that most climate and agricultural variables exh
 11.	CO2 Emission Impact
 
 The scatter plot demonstrates that the most industrialized nations are the most with huge carbon footprint with its economic impact consequences. 
+
 Overview: The scatter plot presents the relationship between CO2 emissions (in million tons) and economic impact (in million USD) for various countries.
 
 Trends
