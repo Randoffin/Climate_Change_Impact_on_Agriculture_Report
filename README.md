@@ -55,7 +55,7 @@ Data cleaning and exploration:
 One dataset file “climate_change_impact_on_agriculture_2024” was cleaned and transformed in Python. Key transformations included:
 Remove spaces and make column names lowercase
 Check for missing data
-Fill missing numeric values (if any) wthcolumn mean
+Fill missing numeric values (if any) with column mean
 
 Data Overview
 
