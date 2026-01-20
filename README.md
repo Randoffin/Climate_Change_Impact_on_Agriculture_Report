@@ -189,6 +189,7 @@ Trends
 
 There is a positive correlation between CO2 emissions and economic impact, with countries emitting more CO2 generally having higher economic impacts.
 The density of points suggests that while a majority of countries cluster around lower emissions and lower economic impact, a few countries (like China and India) have high emissions paired with high economic impacts.
+
 Insights: This indicates that as countries industrialize and develop economically, their CO2 emissions tend to rise. However, the scatter also shows that not all high-emission countries have correspondingly high economic impacts.
 
 ![CO2 Emission Impact](visualizations/CO2_Emissions_vs_Economic_Impact.png)
@@ -206,7 +207,7 @@ vi. Act (Conclusion & Recommendations)
 Conclusion
 
 The analysis highlights the growing vulnerability of agriculture to climate change. Increasing temperatures and unpredictable rainfall negatively affect crop productivity, leading to significant economic consequences for developing regions.
-However, improving soil health, adopting adaptive technologies, and strengthening water management can help mitigate these effects and support sustainable farming. Also, most industrialized nations who are the highest emitters of CO2 should work hard to reduce their carbon footprint so as to reduce the huge economic impact on their economy.
+However, improving soil health, adopting adaptive technologies, and strengthening water management can help mitigate these effects and support sustainable farming. Also, most industrialized nations who are the highest emitters of CO2 should work hard to reduce their carbon footprint by transitioning to renewable energy sources.
 
 Recommendation
 
